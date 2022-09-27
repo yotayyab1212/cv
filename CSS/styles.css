@@ -1,0 +1,26 @@
+  body{
+    background-color: #F2F2F2;
+  }
+
+  hr  {
+    background-color: white;
+    border-style: dotted;
+    height: 2px;
+    }
+
+  h1 {
+  text-align: center;
+  text-transform: uppercase;
+  color: #4CAF50;
+  }
+ h2 {
+   text-align: left;
+   text-transform: uppercase;
+   color: #1E90FF;
+ }
+
+ h3 {
+   text-align: left;
+   text-transform: uppercase;
+   color: #1E90FF;
+ }
